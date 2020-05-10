@@ -1,4 +1,4 @@
-# pythonforgeeks
+# python
 Python!
 
 ## TOC
